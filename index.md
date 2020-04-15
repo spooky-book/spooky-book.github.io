@@ -5,11 +5,11 @@
 ### University Projects
 
 [Java Game](/sample_page)
-<img src="images/image.png?raw=true"/>
+<a href="/sample_page"><img src="images/image.png?raw=true"/></a>
 
 ---
 [Machine Learning Data](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="/pdf/sample_presentation.pdf"><img src="images/decisiontree.png?raw=true"/></a>
 
 ---
 [Some thing](http://example.com/)
