@@ -5,7 +5,7 @@
 ### University Projects
 
 [Java Game](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/image.png?raw=true"/>
 
 ---
 [Machine Learning Data](/pdf/sample_presentation.pdf)
