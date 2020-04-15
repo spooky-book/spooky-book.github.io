@@ -3,7 +3,8 @@ logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Currently a 3rd year at UNSW, studying Commerce and Computer Science 
   <br><br>
-  Actually a meme
+  Email: <a href="mailto:someone@example.com?Subject=Hello%20again" target="_top">nomonacookie@gmail.com</a>
+  <a href="/assets/resume.pdf" target="_top">Resume</a>
   <br><br>
   <a href="https://www.linkedin.com/in/daniel-li-84489a14b">View My nonexistant LinkedIn Profile</a> 
   
